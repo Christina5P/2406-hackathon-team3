@@ -1,48 +1,47 @@
 
 ![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/425a593d-5cdf-4e8c-96cc-a6b8e701f594)
 
-Welcome to a stressguide app from team StressLess.
+Welcome to the StressGuide App from Team StressLess
 
 Live link: https://andersganander.github.io/2406-hackathon-team3/
 
-xx is a stressguide app for a lot of people and a common human problem we gain - a stressful life.
-Our purpose is to give you some information about stress to reflect to.
-A ability to check your own stresslevel with our stress assesment and from that get som advice to start react on.
-Of course you have an opportunity to learn more and we give you some link tips to improve yourself with.
+StressGuide is an app designed to help individuals manage the common human problem of stress. <br>
+Our goal is to provide you with valuable information about stress, allow you to assess your own stress levels,<br>
+and offer advice on how to manage stress effectively. Additionally, we provide links to further resources to help you improve your well-being.
 
-We would like to have a site, which is understandable and easy to connect with.
+We aim to create a site that is understandable and easy to navigate.
 
 # Contents
 
 ## Features
 
-We start with 2 information card to give you basic information of what stress is and how you can suffer from it.
+We start with two information cards that provide basic information on what stress is and how it can affect you.<br>
 
-After that there is focus to reflect of  yourself with an stress assessment how stressed you are in 4 different categories.
-That give you a chance to be aware of where you dont have a good level and how to work on that, since it important to have a good balance in your life.
+Next, we offer a stress assessment tool to help you reflect on your stress levels across four different categories. <br>
+This tool helps you identify areas where you might need to improve your stress management,<br>
+emphasizing the importance of maintaining a good balance in your life.
 
 ## Design
-We want to have a calm and smooth design that get you to slow down and you don´t get too much context to stress over.
-The icons visulize the tema.
-The assessment is "clean with a slider to use, instead of thinking of 5-number grades.
-Further down we have som general tips to start with and if you do the assessment, you get mote personalised tips for the category you need.
+Our design is calm and smooth to help you slow down and avoid information overload.
+The icons visualize the theme, and the assessment uses a clean slider instead of numerical grades.
+Further down, we provide general tips, and personalized advice based on your assessment results.
 
 ## Test
 ## Technologies
-Technologies I have used for this project:
+Technologies used in this project:
 
 - HTML
 - CSS
 - Materialize
 - Java Script 
-- Github - Save the project in a repository, use the canban for userstories 
+- Github - Save the project in a repository, use the canban for user stories 
 
 
 ## Deployment
 
 
-Since we where a team, working in same project, we forked the repository till our own GitHub.<br>
-When we had made changes, we commit back to GitHub through the commando in codespace terminal:<br>
+ a team, we worked on the same project by forking the repository to our own GitHub accounts.<br>
+ We made changes and committed them back to GitHub using the following commands in the codespace terminal:
 Git add . <br>
 Git commit -m"text" <br>
 Git push <br>
@@ -51,14 +50,15 @@ To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the ter
 python3 -m http.server
 
 ### We have deployed the project in Github.
-Instructions to deployment in GitHub:
-Navigate to repository<br>
-From the setting tab (above the repository) click setting tab.<br>
-Select Pages in the left-hand menu<br>
-Section Build and deployment- source select Deploy from a branch<br>
-Select main in first area and root in second area<br>
-Save<br>
-You find the public site under GitHub pages if you go to Deployments on right-hand menu
+The project is deployed on GitHub. Here are the steps to deploy on GitHub:
+
+Navigate to the repository.
+1. Click the "Settings" tab above the repository.
+2. Select "Pages" in the left-hand menu.
+3. In the "Build and Deployment" section, select "Deploy from a branch."
+4. Choose "main" in the first dropdown and "root" in the second.
+5. Save your settings.
+You can find the public site under GitHub Pages in the "Deployments" section on the right-hand menu.
 
 ![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/9c82300c-ff7a-4f74-8274-b1dfeb777c83)
 ![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/802f73cd-4b7f-43dc-a50a-8c204d89cba6)
@@ -66,10 +66,14 @@ You find the public site under GitHub pages if you go to Deployments on right-ha
 
 
 ### How to Fork
-You can fork this repo if you want to have your copy on your repository to work with. To fork, you click the fork button at the top of the right corner of the main repo. On the Create a Fork page, change the name of the repo if you wish. Check the box here if you want to make a copy of the main branch or multiple branches (main is selected by default) Create the fork.
+To fork this repository, click the "Fork" button at the top right corner of the main repository page.
+On the "Create a Fork" page, you can change the name of the repo if desired.
+Check the box if you want to copy the main branch or multiple branches (main is selected by default). Then, create the fork.
 
  ### How to Clone (An alternative to fork)
-If you clone the repo, you create a copy of the repo in your repo (with all files and history) It creates a remote to the original repo, so you can work in your copy and push it back to the original. Open your repo and go to the green button "code" on the right-hand side. The easiest way is to open it with GitHub desktop: 
+To clone the repository, you create a copy in your repository (with all files and history). <br>
+This creates a remote link to the original repo, allowing you to work in your copy and push changes back to the original.<br>
+Open your repo and click the green "Code" button on the right-hand side. The easiest way is to open it with GitHub Desktop.<br>
 
 You can read more information on cloning at the GitHub : https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
@@ -89,7 +93,7 @@ Author: Fredrik Livheim, Daniel Ek, Björn Hedensjö
 
 ## Footer 
 
-In footer there is information about our team; who has build this app and some links to connect with useful management guidance in stress
+The footer contains information about our team, who built this app, and links to useful resources for stress management.
 
 ### Links to more information .
 - Read more about stress: https://www.helpguide.org/articles/stress/stress-management.htm
