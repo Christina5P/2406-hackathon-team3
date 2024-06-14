@@ -13,14 +13,6 @@ Of course you have an opportunity to learn more and we give you some link tips t
 We would like to have a site, which is understandable and easy to connect with.
 
 # Contents
-### Features
-### Design
-### Test
-### Technologies
-### Deployment
-### Acknowledgement
-### Credits
-
 
 ## Features
 
