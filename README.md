@@ -1,114 +1,72 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Anders Ganander,
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/425a593d-5cdf-4e8c-96cc-a6b8e701f594)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Welcome to a stressguide app from team StressLess.
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 28, 2024**
+Live link: https://andersganander.github.io/2406-hackathon-team3/
 
-## Gitpod Reminders
+xx is a stressguide app for a lot of people and a common human problem we gain - a stressful life.
+Our purpose is to give you some information about stress to reflect to.
+A ability to check your own stresslevel with our stress assesment and from that get som advice to start react on.
+Of course you have an opportunity to learn more and we give you some link tips to improve yourself with.
+
+We would like to have a site, which is understandable and easy to connect with.
+
+# Contents
+
+## Features
+
+We start with 2 information card to give you basic information of what stress is and how you can suffer from it.
+
+After that there is focus to reflect of  yourself with an stress assessment how stressed you are in 4 different categories.
+That give you a chance to be aware of where you dont have a good level and how to work on that, since it important to have a good balance in your life.
+
+## Design
+We want to have a calm and smooth design that get you to slow down and you don´t get too much context to stress over.
+The icons visulize the tema.
+The assessment is "clean with a slider to use, instead of thinking of 5-number grades.
+Further down we have som general tips to start with and if you do the assessment, you get mote personalised tips for the category you need.
+
+## Test
+## Technologies
+Technologies I have used for this project:
+
+- HTML
+- CSS
+- Materialize
+- Java Script 
+- Github - Save the project in a repository, use the canban for userstories 
+
+
+## Deployment
+
+We have deployed the project in Github.
+Since we where a team, working in same project, we forked the repository till our own GitHub.<br>
+When we had made changes, we commit back to GitHub through the commando in codespace terminal:<br>
+Git add . <br>
+Git commit -m"text" <br>
+Git push <br>
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+python3 -m http.server
 
-`python3 -m http.server`
+### How to Fork
+You can fork this repo if you want to have your copy on your repository to work with. To fork, you click the fork button at the top of the right corner of the main repo. On the Create a Fork page, change the name of the repo if you wish. Check the box here if you want to make a copy of the main branch or multiple branches (main is selected by default) Create the fork.
 
-A blue button should appear to click: _Make Public_,
+ ### How to Clone (An alternative to fork)
+If you clone the repo, you create a copy of the repo in your repo (with all files and history) It creates a remote to the original repo, so you can work in your copy and push it back to the original. Open your repo and go to the green button "code" on the right-hand side. The easiest way is to open it with GitHub desktop: 
 
-Another blue button should appear to click: _Open Browser_.
+You can read more information on cloning at the GitHub : https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+## Acknowledgement
 
-A blue button should appear to click: _Make Public_,
+For inspiration for this project:
+- experience from stress course in Sweden
+- took part in KEDS test (a common used stresstest from medical researcher in Karoliniska Institute)
+- https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/stress/
+- Litteratur "Tid att leva : ett tioveckors program för stresshantering med ACT och medveten närvaro" 
+Author: Fredrik Livheim, Daniel Ek, Björn Hedensjö 
 
-Another blue button should appear to click: _Open Browser_.
+## Credits
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**May 28 2024:** Fix Mongo and Links installs
-
-**April 26 2024:** Update node version to 16
-
-**September 20 2023:** Update Python version to 3.9.17.
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
