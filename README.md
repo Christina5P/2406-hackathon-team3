@@ -75,9 +75,9 @@ You can read more information on cloning at the GitHub : https://docs.github.com
 
 ## Source reference
 
-- materializecss.com
+- https://materializecss.com
 - https://pixabay.com/photos
-- 
+  
 ## Acknowledgement
 
 For inspiration for this project:
@@ -92,10 +92,7 @@ Author: Fredrik Livheim, Daniel Ek, Björn Hedensjö
 In footer there is information about our team; who has build this app and some links to connect with useful management guidance in stress
 
 ### Links to more information .
-Read more about stress: https://www.helpguide.org/articles/stress/stress-management.htm
-Learn more about CBT: https://www.youtube.com/watch?v=Jz55Uk9EH6U
-Beginners guide to mindfulness: https://mindfulness.com/mindful-living/mindfulness-a-beginners-guide
-
-## Credits
-
+- Read more about stress: https://www.helpguide.org/articles/stress/stress-management.htm
+- Learn more about CBT: https://www.youtube.com/watch?v=Jz55Uk9EH6U
+- Beginners guide to mindfulness: https://mindfulness.com/mindful-living/mindfulness-a-beginners-guide
 
