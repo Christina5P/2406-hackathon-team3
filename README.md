@@ -1,6 +1,9 @@
 
 ![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/425a593d-5cdf-4e8c-96cc-a6b8e701f594)
 
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/885d765a-1d52-4161-9a35-9245bff667b5)
+
+
 Welcome to the StressGuide App from Team StressLess
 
 Live link: https://andersganander.github.io/2406-hackathon-team3/
@@ -147,6 +150,7 @@ You can read more information on cloning at the GitHub : https://docs.github.com
 
 - https://materializecss.com
 - https://pixabay.com/photos
+- https://favicon.io/ 
   
 ## Acknowledgement
 
