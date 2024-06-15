@@ -11,6 +11,8 @@ and offer advice on how to manage stress effectively. Additionally, we provide l
 
 We aim to create a site that is understandable and easy to navigate.
 
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/95ed1f99-be31-4aa3-b1a7-08261c944a3d)
+
 # Contents
 
 ## Features
@@ -25,6 +27,11 @@ emphasizing the importance of maintaining a good balance in your life.
 The Stress Facts section in the Stress Management Application is designed to educate users about stress and its impact.<br>
 This section provides foundational knowledge that helps users understand what stress is, its causes, and its effects on both mental and physical health. <br>
 By presenting clear and concise information, the section aims to raise awareness and promote better stress management practices.<br>
+
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/b7246772-4122-42fb-aff1-2818f7e05fff)
+
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/2f53ad56-0a35-40ce-9062-867c0f0522bc)
+
 #### Key Features:
 1. Educational Content:
 The section presents basic, essential facts about stress in an easy-to-understand format. It covers definitions, common causes, and the physical and psychological effects of stress.
@@ -33,8 +40,13 @@ The information is organized into two visually appealing fact cards. Each card f
 3. Visual Appeal:
 The fact cards are designed with user engagement in mind, using attractive layouts, colors, and icons to make the information more accessible and memorable.
 
+
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/5c6ac005-3d02-40d4-a384-46c2c1227c8a)
+
 ### Self assessment
 The stress assessment feature in the Stress Management Application is designed to help users evaluate their stress levels across various aspects of their lives. It provides a structured way to identify areas that may be contributing to their overall stress and offers insights into how to manage and reduce stress effectively.
+
+
 #### Key Features:
 1. Categories of Assessment:
 The assessment is divided into four main categories, each addressing different aspects of life:
@@ -68,12 +80,17 @@ The assessment is divided into four main categories, each addressing different a
     * This insight allows users to focus on specific areas for stress management and improvement.
     * After the survey has been completed and the user's stress profile has been displayed, the tips section is customized to show tips for the two categories where the user has the highest stress scores.
 
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/a619def9-d3bc-427e-bab9-ce16dfd277cc)
+
 ## Design
 Our design is calm and smooth to help you slow down and avoid information overload.
 The icons visualize the theme, and the assessment uses a clean slider instead of numerical grades.
 Further down, we provide general tips, and personalized advice based on your assessment results.
 
 ## Test
+
+![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/b1f9b092-d282-4549-9f4e-4bafbcff96a2)
+
 ## Technologies
 Technologies used in this project:
 
