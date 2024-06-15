@@ -21,6 +21,53 @@ Next, we offer a stress assessment tool to help you reflect on your stress level
 This tool helps you identify areas where you might need to improve your stress management,<br>
 emphasizing the importance of maintaining a good balance in your life.
 
+### Stress facts
+The Stress Facts section in the Stress Management Application is designed to educate users about stress and its impact.<br>
+This section provides foundational knowledge that helps users understand what stress is, its causes, and its effects on both mental and physical health. <br>
+By presenting clear and concise information, the section aims to raise awareness and promote better stress management practices.<br>
+#### Key Features:
+1. Educational Content:
+The section presents basic, essential facts about stress in an easy-to-understand format. It covers definitions, common causes, and the physical and psychological effects of stress.
+2. Fact Cards:
+The information is organized into two visually appealing fact cards. Each card focuses on a different aspect of stress, ensuring that users receive a comprehensive overview without feeling overwhelmed.
+3. Visual Appeal:
+The fact cards are designed with user engagement in mind, using attractive layouts, colors, and icons to make the information more accessible and memorable.
+
+### Self assessment
+The stress assessment feature in the Stress Management Application is designed to help users evaluate their stress levels across various aspects of their lives. It provides a structured way to identify areas that may be contributing to their overall stress and offers insights into how to manage and reduce stress effectively.
+#### Key Features:
+1. Categories of Assessment:
+The assessment is divided into four main categories, each addressing different aspects of life:
+   * Work and Education: Evaluates stress related to workload, job security, work-life balance, and career progression.
+   * Health: Assesses stress due to physical health issues, chronic conditions, and maintaining a healthy lifestyle.
+   * Social Media and Technology: Looks at stress related to the use of social media, online presence, and digital connectivity.
+   * Family and Relations: Focuses on stress arising from family responsibilities, relationships, and communication within the family.
+
+2. Questionnaire Format:
+  * Each category contains 8 questions, making a total of 32 questions.
+  * The questions are presented 4 at a time to avoid overwhelming the user and to ensure focused responses.
+  * Users rate each statement on a scale from 1 to 5:
+    * 1 - Strongly Disagree
+    * 2 - Disagree
+    * 3 - Neutral
+    * 4 - Agree
+    * 5 - Strongly Agree
+   
+3. User Interface:
+    * The questions are displayed in a column in the center of the page, occupying one-third of the width to ensure readability and focus.
+    * Above the questions, there is a heading that shows the current category being assessed.
+    * Each question is numbered, and the total number of questions in the category is displayed for context.
+
+4. Navigation:
+    * A "Next" button is provided to navigate through the questions. Once the user has answered the first 4 questions, clicking "Next" will display the next set of questions.
+    * This process continues until all questions in all categories have been answered.
+
+5. Summary and Results:
+    * After completing all questions, a summary page is displayed.
+    * The summary shows the total score for each category, helping users identify which areas of their life are causing the most stress.
+    * This insight allows users to focus on specific areas for stress management and improvement.
+    * After the survey has been completed and the user's stress profile has been displayed, the tips section is customized to show tips for the two categories where the user has the highest stress scores.
+
 ## Design
 Our design is calm and smooth to help you slow down and avoid information overload.
 The icons visualize the theme, and the assessment uses a clean slider instead of numerical grades.
