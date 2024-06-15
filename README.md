@@ -13,6 +13,8 @@ We aim to create a site that is understandable and easy to navigate.
 
 ![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/95ed1f99-be31-4aa3-b1a7-08261c944a3d)
 
+![test2](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/e95eb551-5477-44a4-ab99-9c9391987ec0)
+
 # Contents
 
 ## Features
@@ -41,7 +43,6 @@ The information is organized into two visually appealing fact cards. Each card f
 The fact cards are designed with user engagement in mind, using attractive layouts, colors, and icons to make the information more accessible and memorable.
 
 
-![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/5c6ac005-3d02-40d4-a384-46c2c1227c8a)
 
 ### Self assessment
 The stress assessment feature in the Stress Management Application is designed to help users evaluate their stress levels across various aspects of their lives. It provides a structured way to identify areas that may be contributing to their overall stress and offers insights into how to manage and reduce stress effectively.
@@ -80,7 +81,8 @@ The assessment is divided into four main categories, each addressing different a
     * This insight allows users to focus on specific areas for stress management and improvement.
     * After the survey has been completed and the user's stress profile has been displayed, the tips section is customized to show tips for the two categories where the user has the highest stress scores.
 
-![image](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/a619def9-d3bc-427e-bab9-ce16dfd277cc)
+![test1](https://github.com/Christina5P/2406-hackathon-team3/assets/160019695/d979efdf-5008-48b3-8ac8-4df2341acafd)
+
 
 ## Design
 Our design is calm and smooth to help you slow down and avoid information overload.
